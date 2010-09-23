@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>ButtonStar.png</key>
+		<data>
+		RIokZ6z0nlAW4kDs6yQTMkcttL8=
+		</data>
+		<key>ButtonStarSel.png</key>
+		<data>
+		u8qggvNMXaV3ZxIaSYEDtIsTQn8=
+		</data>
+		<key>Default.png</key>
+		<data>
+		GMnDY+7MpXsYdu29GbRE4rbJ1RM=
+		</data>
+		<key>Icon.png</key>
+		<data>
+		vXVKVH+Wgg4QpjKFwBxIIdlE6ps=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		rDVkUUSHu1sXloCF3uxPLHmGKGE=
+		</data>
+		<key>fps_images.png</key>
+		<data>
+		df+X61fyIPq6c17u1Duc22Sp4Hs=
+		</data>
+		<key>green.png</key>
+		<data>
+		D7LUQbGQe1hvh0ZoPu0JLxH7240=
+		</data>
+		<key>red.png</key>
+		<data>
+		fdaw61+TF1GNP/YG11iG/mbegN0=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -10,7 +10,7 @@
 // HelloWorld implementation
 @implementation HelloWorld
 
-@synthesize peeks, loopNumber;
+@synthesize peeks, loopNumber, newPeeksToAdd;
 
 +(id) scene
 {
@@ -36,7 +36,7 @@
 		self.loopNumber = 0;
 		// ask director the the window size
 		CGSize size = [[CCDirector sharedDirector] winSize];
-		
+		newPeeksToAdd = 0;
 		//jesus fuck is this ever important
 		self.isTouchEnabled = YES;
 		
@@ -64,6 +64,7 @@
 		[self addChild:starMenu];
 		
 		[NSTimer scheduledTimerWithTimeInterval: 0.05 target:self selector:@selector(gameLoop) userInfo:nil repeats:YES];
+		
 	}
 	return self;
 }
@@ -81,12 +82,12 @@
 	
 	
 	
-	if ([peeks count] < 13) {
-		CCSprite *peek = [CCSprite spriteWithFile:@"green.png"];
-		
+	if ([peeks count] < 5) {
+		Peek  *peek = [Peek spriteWithFile:@"green.png"];
+		peek.isColliding = NO;
 		CGPoint center = [hero position];
-		int x = arc4random() % 250;
-		int y = arc4random() % 250;
+		int x = arc4random() % 250 +100;
+		int y = arc4random() % 250 + 100;
 		
 		int flipX = arc4random() % 2;
 		int flipY = arc4random() % 2;
@@ -107,6 +108,7 @@
 		[peeks addObject:peek];
 		[self addChild:peek];
 	}
+	
 	if (loopNumber % 20 == 0) {
 		id actionCallFunc = [CCCallFunc actionWithTarget:self selector:@selector(callPeeks:)];
 		
@@ -118,9 +120,74 @@
 	else {
 		[hero runAction:action];
 	}
+	for (Peek *peeker in peeks) {
+		CGRect peekerRect = CGRectMake(peeker.position.x - (peeker.contentSize.width/2), 
+										   peeker.position.y - (peeker.contentSize.height/2), 
+										   peeker.contentSize.width, 
+										   peeker.contentSize.height);
+		
+		
+		
+			CGRect targetRect = CGRectMake(hero.position.x - (hero.contentSize.width/2), 
+										   hero.position.y - (hero.contentSize.height/2), 
+										   hero.contentSize.width, 
+										   hero.contentSize.height);
+			
+			if ((CGRectIntersectsRect(peekerRect, targetRect)) && (peeker.isColliding == NO)) {
+				
+				//[self removeChild:peeker cleanup:YES];
+				newPeeksToAdd =+ 1;
+				peeker.isColliding = YES;
+			
+				
+			}
+				else if(!(CGRectIntersectsRect(peekerRect, targetRect))) {
+			
+				peeker.isColliding = NO;
+			}
+
+				
+	}
+	
+	[self addNewPeeks];
+		
+}
+-(void) addNewPeeks {
+
+	if ([peeks count] < 100) {
+		while (newPeeksToAdd != 0) {
+			Peek *peek = [Peek spriteWithFile:@"green.png"];
+			
+			CGPoint center = [hero position];
+			int x = arc4random() % 250 +100;
+			int y = arc4random() % 250 + 100;
+			
+			int flipX = arc4random() % 2;
+			int flipY = arc4random() % 2;
+			
+			if (flipX == 1) {
+				x = -x;
+			}
+			if (flipY == 1) {
+				y = -y;
+			}
+			
+			CGPoint newCenter = ccp(center.x + x,center.y + y);
+			
+			peek.position = newCenter;
+			
+			[peeks addObject:peek];
+			[self addChild:peek];
+			newPeeksToAdd--;
+			
+		}	
+	}
+						
+	
+	
+	
 	
 }
-
 -(void) callPeeks: (id)sender {
 	
 	CGPoint center =  [hero position];
@@ -128,7 +195,7 @@
 	int x = 0;
 	int y = 0;
 	
-	for (CCSprite *peek in peeks) {
+	for (Peek *peek in peeks) {
 		x = (arc4random() % 250);
 		y = (arc4random() % 250);
 		

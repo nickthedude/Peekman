@@ -1,0 +1,765 @@
+Tcocos2d libraries
+v7
+r0
+t306910819.529421
+cCheck dependencies
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabelStringDrawing.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZFont.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/CDataScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSScanner_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONDeserializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONSerializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZAttributedString.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerPost.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/cocoslive.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CDAudioManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CocosDenshion.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/SimpleAudioEngine.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool "/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/libcocos2d libraries.a" normal armv7
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C059C0E0000000000000110
+t1275436046
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004B9F26F6000000000001AD60
+t1268721398
+s109920
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004B9F26F300000000000000EB
+t1268721395
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B9F260C00000000002DE3E0
+t1268721164
+s3007456
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004B9F25DA0000000000000A22
+t1268721114
+s2594
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/ExtendedAudioFile.h
+c000000004B9F25DA0000000000005430
+t1268721114
+s21552
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004BA03AC100000000000004FE
+t1268792001
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004B9F263300000000000064FD
+t1268721203
+s25853
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004B9F26330000000000001F45
+t1268721203
+s8005
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004B9F263C000000000003ABD0
+t1268721212
+s240592
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004B9F289E0000000000009369
+t1268721822
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004B9F28AB000000000003C2B0
+t1268721835
+s246448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B9F2A1500000000002215A0
+t1268722197
+s2233760
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004B9F12D90000000000002500
+t1268716249
+s9472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/math.h
+c000000004B9F12D800000000000004F1
+t1268716248
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/lib/libz.dylib
+c000000004B9F17270000000000020FF0
+t1268717351
+s135152
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/libcocos2d libraries.a
+t1285218019
+s590632
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o
+t1285218019
+s65620
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o
+t1285218016
+s26920
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o
+t1285218016
+s10352
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o
+t1285218017
+s12592
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o
+t1285218017
+s31980
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o
+t1285218017
+s21784
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o
+t1285218017
+s38120
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o
+t1285218018
+s25880
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o
+t1285218019
+s68668
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o
+t1285218016
+s30604
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o
+t1285218016
+s65880
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o
+t1285218016
+s20916
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o
+t1285218016
+s7216
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o
+t1285218017
+s7308
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o
+t1285218017
+s13472
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o
+t1285218019
+s29500
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o
+t1285218017
+s72216
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o
+t1285218016
+s26716
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocos2d libraries.LinkFileList
+c000000004C9ADEDB0000000000000AB1
+t1285218011
+s2737
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o
+t1285218018
+s5328
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/cocos2d/CCConfiguration.h
+c000000004C3E2DDE0000000000000A89
+t1279143390
+s2697
+i<OpenGLES/ES1/gl.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/cocos2d/ccMacros.h
+c000000004C3E2DDE0000000000001740
+t1279143390
+s5952
+i<math.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CDAudioManager.h
+c000000004C9AA004000000000000229C
+t1285201924
+s8860
+i"CocosDenshion.h"
+i<AVFoundation/AVFoundation.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CDAudioManager.m
+c000000004C9AA0040000000000005421
+t1285201924
+s21537
+i"CDAudioManager.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CDConfig.h
+c000000004C9AA0040000000000000A17
+t1285201924
+s2583
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CDOpenALSupport.h
+c000000004C9AA0040000000000002B72
+t1285201924
+s11122
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AudioToolbox/ExtendedAudioFile.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CocosDenshion.h
+c000000004C9AA00400000000000020A0
+t1285201924
+s8352
+i<UIKit/UIKit.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i"CDConfig.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CocosDenshion.m
+c000000004C9AA004000000000000721B
+t1285201924
+s29211
+i"CocosDenshion.h"
+i"CDOpenALSupport.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/SimpleAudioEngine.h
+c000000004C9AA0040000000000000B07
+t1285201924
+s2823
+i"CDAudioManager.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/SimpleAudioEngine.m
+c000000004C9AA0040000000000001551
+t1285201924
+s5457
+i"SimpleAudioEngine.h"
+i<AVFoundation/AVFoundation.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabel.h
+c000000004C9AA00400000000000006FD
+t1285201924
+s1789
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabel.m
+c000000004C9AA00400000000000019F2
+t1285201924
+s6642
+i"FontLabel.h"
+i"FontManager.h"
+i"FontLabelStringDrawing.h"
+i"ZFont.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabelStringDrawing.h
+c000000004C9AA0040000000000000F44
+t1285201924
+s3908
+i<UIKit/UIKit.h>
+i"ZAttributedString.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabelStringDrawing.m
+c000000004C9AA004000000000000840D
+t1285201924
+s33805
+i"FontLabelStringDrawing.h"
+i"ZFont.h"
+i"ZAttributedStringPrivate.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontManager.h
+c000000004C9AA0040000000000000CEB
+t1285201924
+s3307
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontManager.m
+c000000004C9AA0040000000000000DCD
+t1285201924
+s3533
+i"FontManager.h"
+i"ZFont.h"
+i"CCConfiguration.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZAttributedString.h
+c000000004C9AA0040000000000000C27
+t1285201924
+s3111
+i<Foundation/Foundation.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZAttributedString.m
+c000000004C9AA0040000000000005576
+t1285201924
+s21878
+i"ZAttributedString.h"
+i"ZAttributedStringPrivate.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZAttributedStringPrivate.h
+c000000004C9AA00400000000000002D2
+t1285201924
+s722
+i<Foundation/Foundation.h>
+i"ZAttributedString.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZFont.h
+c000000004C9AA0040000000000000664
+t1285201924
+s1636
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZFont.m
+c000000004C9AA0040000000000001324
+t1285201924
+s4900
+i"ZFont.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/CDataScanner.h
+c000000004C9AA0040000000000000946
+t1285201924
+s2374
+i<Foundation/Foundation.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/CDataScanner.m
+c000000004C9AA004000000000000165F
+t1285201924
+s5727
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/CDataScanner_Extensions.h
+c000000004C9AA0040000000000000598
+t1285201924
+s1432
+i"CDataScanner.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/CDataScanner_Extensions.m
+c000000004C9AA00400000000000009D4
+t1285201924
+s2516
+i"CDataScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.h
+c000000004C9AA0040000000000000565
+t1285201924
+s1381
+i<Foundation/Foundation.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+c000000004C9AA004000000000000071C
+t1285201924
+s1820
+i"NSCharacterSet_Extensions.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.h
+c000000004C9AA0040000000000000583
+t1285201924
+s1411
+i<Foundation/Foundation.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+c000000004C9AA00400000000000005FE
+t1285201924
+s1534
+i"NSDictionary_JSONExtensions.h"
+i"CJSONDeserializer.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSScanner_Extensions.h
+c000000004C9AA0040000000000000641
+t1285201924
+s1601
+i<Foundation/Foundation.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSScanner_Extensions.m
+c000000004C9AA0040000000000000D50
+t1285201924
+s3408
+i"NSScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONDeserializer.h
+c000000004C9AA0040000000000000766
+t1285201924
+s1894
+i<Foundation/Foundation.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONDeserializer.m
+c000000004C9AA00400000000000009C2
+t1285201924
+s2498
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONScanner.h
+c000000004C9AA0040000000000000700
+t1285201924
+s1792
+i"CDataScanner.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONScanner.m
+c000000004C9AA00400000000000038D4
+t1285201924
+s14548
+i"CJSONScanner.h"
+i"NSCharacterSet_Extensions.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONSerializer.h
+c000000004C9AA004000000000000066A
+t1285201924
+s1642
+i<Foundation/Foundation.h>
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONSerializer.m
+c000000004C9AA00400000000000016F0
+t1285201924
+s5872
+i"CJSONSerializer.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerPost.h
+c000000004C9AA0040000000000000DA3
+t1285201924
+s3491
+i<UIKit/UIKit.h>
+i<CommonCrypto/CommonDigest.h>
+i"cocoslive.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerPost.m
+c000000004C9AA00400000000000024AF
+t1285201924
+s9391
+i"CLScoreServerPost.h"
+i"ccMacros.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerRequest.h
+c000000004C9AA0040000000000000DAE
+t1285201924
+s3502
+i<UIKit/UIKit.h>
+i"cocoslive.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerRequest.m
+c000000004C9AA0040000000000001A47
+t1285201924
+s6727
+i"CJSONDeserializer.h"
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+i"ccMacros.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/cocoslive.h
+c000000004C9AA004000000000000028F
+t1285201924
+s655
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+
+N/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/cocoslive.m
+c000000004C9AA00400000000000001EB
+t1285201924
+s491
+i<UIKit/UIKit.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306910810#306910811#0(0"0(0#1#0"8630599104#0"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CDAudioManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910818.216756
+e306910819.130594
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CDAudioManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CDAudioManager.m306910818#306910819#0(0"0(0#0#80"/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CDAudioManager.m8624396992#1846"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CDAudioManager.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/CDataScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910816.588257
+e306910816.800171
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/CDataScanner.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/CDataScanner.m306910816#306910816#0(0"0(0#0#74"/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/CDataScanner.m8633364096#1838"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/CDataScanner.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910816.589463
+e306910816.801400
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/CDataScanner_Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/CDataScanner_Extensions.m306910816#306910816#0(0"0(0#0#96"/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/CDataScanner_Extensions.m8632793024#1871"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/CDataScanner_Extensions.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONDeserializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910817.015736
+e306910817.226624
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONDeserializer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONDeserializer.m306910817#306910817#0(0"0(0#0#84"/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONDeserializer.m8621162080#1853"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONDeserializer.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910817.200824
+e306910817.454129
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONScanner.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONScanner.m306910817#306910817#0(0"0(0#0#79"/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONScanner.m8632355168#1843"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONScanner.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONSerializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910817.226729
+e306910817.437351
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONSerializer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONSerializer.m306910817#306910817#0(0"0(0#0#82"/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONSerializer.m8630549856#1849"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/JSON/CJSONSerializer.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerPost.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910817.454226
+e306910817.965144
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerPost.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerPost.m306910817#306910817#0(0"0(0#0#79"/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerPost.m8621360864#1848"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerPost.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910817.965485
+e306910818.266932
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerRequest.m306910817#306910818#0(0"0(0#0#82"/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerRequest.m8632196384#1854"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/CLScoreServerRequest.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CocosDenshion.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910818.267042
+e306910819.107418
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CocosDenshion.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CocosDenshion.m306910818#306910819#0(0"0(0#0#79"/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CocosDenshion.m8621624288#1844"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/CocosDenshion.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910811.711590
+e306910816.134007
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabel.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabel.m306910811#306910816#0(0"0(0#0#71"/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabel.m8618776896#1832"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabel.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabelStringDrawing.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910811.727631
+e306910816.310562
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabelStringDrawing.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabelStringDrawing.m306910811#306910816#0(0"0(0#0#84"/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabelStringDrawing.m8611842432#1858"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontLabelStringDrawing.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910816.134138
+e306910816.588157
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontManager.m306910816#306910816#0(0"0(0#0#73"/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontManager.m8629968352#1836"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/FontManager.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910816.800279
+e306910816.994298
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m306910816#306910816#0(0"0(0#0#98"/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m8630680928#1875"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910816.801476
+e306910817.015636
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m306910816#306910817#0(0"0(0#0#100"/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m8629821984#1879"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSScanner_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910816.994400
+e306910817.200722
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSScanner_Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSScanner_Extensions.m306910816#306910817#0(0"0(0#0#93"/Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSScanner_Extensions.m8620884256#1865"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/TouchJSON/Extensions/NSScanner_Extensions.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/SimpleAudioEngine.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910819.107518
+e306910819.389362
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/SimpleAudioEngine.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/SimpleAudioEngine.m306910819#306910819#0(0"0(0#0#83"/Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/SimpleAudioEngine.m8621188576#1852"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/CocosDenshion/SimpleAudioEngine.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZAttributedString.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910817.437449
+e306910817.966827
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZAttributedString.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZAttributedString.m306910817#306910817#0(0"0(0#0#79"/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZAttributedString.m8624221536#1848"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZAttributedString.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZFont.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910816.310664
+e306910816.589385
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZFont.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZFont.m306910816#306910816#0(0"0(0#0#67"/Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZFont.m8622408832#1824"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/FontLabel/ZFont.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o"0#
+
+CCompileC "build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o" /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/cocoslive.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306910817.966920
+e306910818.216651
+r1
+xCompileC
+xbuild/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o
+x/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/cocoslive.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/cocoslive.m306910817#306910818#0(0"0(0#0#71"/Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/cocoslive.m8630550464#1832"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DCOCOS2D_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.2 -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -I/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/include "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -c /Users/knyck2/xcode_projects/peekman/Peekman/libs/cocoslive/cocoslive.m -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o"0#
+
+CLibtool "/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/libcocos2d libraries.a" normal armv7
+s306910819.389462
+e306910819.529311
+r1
+xLibtool
+x/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/libcocos2d libraries.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+lSLF07#2@66"Libtool "build/Debug-iphoneos/libcocos2d libraries.a" normal armv7306910819#306910819#0(430"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library0(0#0#0"8632718016#1007"    cd /Users/knyck2/xcode_projects/peekman/Peekman    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos -filelist "/Users/knyck2/xcode_projects/peekman/Peekman/build/peekman.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocos2d libraries.LinkFileList" -framework AVFoundation -framework AudioToolbox -framework CoreGraphics -framework OpenAL -framework OpenGLES -framework QuartzCore /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/lib/libz.dylib -o "/Users/knyck2/xcode_projects/peekman/Peekman/build/Debug-iphoneos/libcocos2d libraries.a"0#
+

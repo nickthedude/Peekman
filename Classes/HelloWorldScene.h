@@ -1,6 +1,7 @@
 
 // When you import this file, you import all the cocos2d classes
 #import "cocos2d.h"
+#import "Peek.h"
 
 // HelloWorld Layer
 @interface HelloWorld : CCLayer
@@ -12,11 +13,13 @@
 	
 	CCSprite* callBtn;
 	NSInteger loopNumber;
+	NSInteger newPeeksToAdd;
 	
 }
 
 @property (retain) NSMutableArray *peeks;
 @property NSInteger loopNumber;
+@property NSInteger newPeeksToAdd;
 // returns a Scene that contains the HelloWorld as the only child
 +(id) scene;
 
