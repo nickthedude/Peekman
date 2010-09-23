@@ -11,11 +11,12 @@
 	NSMutableArray *peeks;
 	
 	CCSprite* callBtn;
+	NSInteger loopNumber;
 	
 }
 
 @property (retain) NSMutableArray *peeks;
-
+@property NSInteger loopNumber;
 // returns a Scene that contains the HelloWorld as the only child
 +(id) scene;
 

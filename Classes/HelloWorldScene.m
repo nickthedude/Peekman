@@ -10,7 +10,7 @@
 // HelloWorld implementation
 @implementation HelloWorld
 
-@synthesize peeks;
+@synthesize peeks, loopNumber;
 
 +(id) scene
 {
@@ -33,7 +33,7 @@
 	// always call "super" init
 	// Apple recommends to re-assign "self" with the "super" return value
 	if( (self=[super init] )) {
-		
+		self.loopNumber = 0;
 		// ask director the the window size
 		CGSize size = [[CCDirector sharedDirector] winSize];
 		
@@ -69,6 +69,7 @@
 }
 
 -(void)gameLoop {
+	loopNumber ++;
 	CGPoint current = [hero position];
 	
 	//conceptually, delta is a vector of the same direction, but 1/100th the magnitude
@@ -76,6 +77,9 @@
 	
 	//what we want to do
 	id action = [CCMoveBy actionWithDuration:0.001 position:delta];
+	
+	
+	
 	
 	if ([peeks count] < 13) {
 		CCSprite *peek = [CCSprite spriteWithFile:@"green.png"];
@@ -95,25 +99,38 @@
 		}
 		
 		CGPoint newCenter = ccp(center.x + x,center.y + y);
-		
+		if (loopNumber == 300000) {
+			loopNumber = 0;
+		}
 		peek.position = newCenter;
 		
 		[peeks addObject:peek];
 		[self addChild:peek];
 	}
+	if (loopNumber % 20 == 0) {
+		id actionCallFunc = [CCCallFunc actionWithTarget:self selector:@selector(callPeeks:)];
+		
+		id actionSequence = [CCSequence actions: action, actionCallFunc, nil];
+		
+		[hero runAction:actionSequence];
+	}
 	
-	[hero runAction:action];
+	else {
+		[hero runAction:action];
+	}
+	
 }
 
 -(void) callPeeks: (id)sender {
-	CGPoint center = [hero position];
+	
+	CGPoint center =  [hero position];
 	
 	int x = 0;
 	int y = 0;
 	
 	for (CCSprite *peek in peeks) {
-		x = arc4random() % 250;
-		y = arc4random() % 250;
+		x = (arc4random() % 250);
+		y = (arc4random() % 250);
 		
 		int flipX = arc4random() % 2;
 		int flipY = arc4random() % 2;
